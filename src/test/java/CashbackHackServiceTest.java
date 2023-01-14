@@ -1,6 +1,5 @@
-package ru.netology.service;
-
 import org.testng.Assert;
+import ru.netology.service.CashbackHackService;
 
 import static org.testng.Assert.*;
 
