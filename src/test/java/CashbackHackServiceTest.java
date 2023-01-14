@@ -1,7 +1,5 @@
-package ru.netology.service;
-
-
 import org.junit.Test;
+import ru.netology.service.CashbackHackService;
 
 
 import static org.junit.Assert.*;
